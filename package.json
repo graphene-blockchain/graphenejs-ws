@@ -1,5 +1,5 @@
 {
-  "name": "bitsharesjs-ws",
+  "name": "graphenejs-ws",
   "version": "4.0.0",
   "description": "Pure JavaScript BitShares websocket interface for node.js and browsers.",
   "browser": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitshares/bitsharesjs-ws.git"
+    "url": "git+https://github.com/graphene-blockchain/graphenejs-ws.git"
   },
   "author": "BitShares UI Worker <ui-dev@bitshares.org>",
   "contributors": [
@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitshares/bitsharesjs-ws/issues"
+    "url": "https://github.com/graphene-blockchain/graphenejs-ws/issues"
   },
   "engines": {
     "node": ">= 10.0.0"
